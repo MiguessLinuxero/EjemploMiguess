@@ -1,0 +1,9 @@
+/* PX o pixeles es una unidad relativa*/
+
+body{
+    font-size: 20px;
+}
+div{
+    background: darkorange;
+    color: darkslategray;
+}

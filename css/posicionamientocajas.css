@@ -1,0 +1,23 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: springgreen;
+    color: violet;
+    font-size: 30px;   
+    float: left; 
+}
+/*
+.caja_padre{
+    width: 500px;
+    height: 500px;
+    background: yellow;
+    position: relative;
+}
+*/
+.caja{
+    position: static;
+    top: 100px;
+    bottom: 0;
+    right: 0;
+    left: 100px;
+}

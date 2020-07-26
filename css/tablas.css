@@ -1,0 +1,20 @@
+table{
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+table td{
+	border: 1px solid #000;
+	padding: 20px;
+}
+
+table tr:hover {
+	/*background: #70D4F4;*/
+	background: #F316F0;
+}
+
+table td:hover{
+	background: #0EF766;
+	color: #FFFFFF;
+
+}

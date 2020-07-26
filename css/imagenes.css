@@ -1,0 +1,15 @@
+div{
+    background: thistle;
+    width: 600px;
+}
+img{
+    height:300px;
+    width: auto;
+    margin: auto;
+    display: block;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px #ef07fa;
+    padding: 10px;
+    border: 2px solid #05d7db;
+
+}

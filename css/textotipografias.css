@@ -1,0 +1,16 @@
+p{
+    font-family: sans-serif;
+    color: rgb(112, 247, 247);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px red; /*text-shadow: sirve para sombras en el texto;*/
+}
+
+h1{
+    font-weight: normal;
+    text-align: center;
+    background: rgb(241, 15, 147);
+}

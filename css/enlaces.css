@@ -1,0 +1,28 @@
+a{
+    font-size: 20px;
+    color: rgb(172, 253, 22);
+    text-decoration: none;
+    margin: 10px 20px 10px 0px ;
+    /*padding:8px 15px;*/
+}
+
+a:link{
+    color: royalblue;
+    font-size: 20px;        
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 30px;
+    background: slategray;
+}
+
+/*sirve para cuandodas un click se pinta de naranja */
+a:active{
+    background-color: tomato;
+}
+
+a:visited{
+    color: teal;
+    text-decoration: line-through;
+}

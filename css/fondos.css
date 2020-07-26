@@ -1,0 +1,6 @@
+body{
+    /*background: #dbbafc; Para ponerle un color al fondo*/ 
+    background:url(../imagenes/laptop.jpg);
+    background-repeat: no-repeat;
+    color: seashell;
+}

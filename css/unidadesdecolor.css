@@ -1,0 +1,13 @@
+h1{
+    color: aqua;
+}
+
+/* RGB decimal */
+h2{
+    color: rgb(78, 245, 120);
+}
+
+/* Color Hexadecimal */
+h3{
+    color: #af7ac5;
+}
